@@ -9,6 +9,6 @@ deploy:
   provider: heroku
   api_key:
     secure: je2CVYK/IXEc9jeVhgf+mcXtcKtIb/o/EdkdiyvFYXTCUFbC0lzPkrLokjlwB3NQbnG1UOCA38eaOYtBXwc2gAqCzz8MDjEWPC0Xiia8E1vFniARCbHm3ah8A+JL+c7ORUco7FbYnxzQ05jsaqymZgeR6QmJVlL8TGlGZniUi2yuFrCND3iy+tXnA2JuD5GyzCzO7ZxKKNFkfJ9x+lcKV21ToukUASe4UdB/B0zOmIS9xtoCHg0/rhfJ91tpkyw2Tc83Rx7Xe898YmsNuuidfR0y74noIuhWeK9ST+0wVUjzSTAh+uOcjKuXLR8rY7PkgAddWtdivNntb6S33zfgXA26CJWberH0Oe0tXCUmFxWXDqGLn5YXiMoKqDjZKQpSZoGSQao3uLemTW3MoOwb3bNp2ks1j4OENcyOKoL/JigE+axeblhwgK5K0QBAFomTQemuiaCI3FQSLnIEh0W+8yV1AwFWyEplsBHzyoKjFy62qkwhj41GsL+rnTpGPtdyKF3vEx1nPb1HjHFMDRm1FosNj+AEb4ZDBCmZUg22yT++4SqP3RBFTo+SLMjs03dFbUwTFevYf3oIVWaeJKQDMBBHMcozug5donf3cIF63xd4fFmi3YNIjILvFb19eFyFN0Fl5wiOc7Ry4ar4UCa7i/e+9Aw4gzn1Txp1A1vis1c=
-  app: blog-app-mongoose-challenge-solution
+  app: blog-app-mongoose
   on:
     repo: azhoque/blog-app-mongoose-challenge-solution
